@@ -1,8 +1,8 @@
 #include <iostream>
-using namespace std;
+// using namespace std;
 
 int main()
 {
-	std::cout << "Hello from 'testexe1.cpp'" << endl;
+	std::cout << "Change sth to test build automatically when has new deployed" << std::endl;
 	return 0;
 }
